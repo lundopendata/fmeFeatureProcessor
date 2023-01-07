@@ -13,6 +13,7 @@ from fmeobjects import FMEFeature
 class FeatureProcessorMacroValue(object):
 
     def __init__(self):
+        # If your code contains FME_MacroValues replace it with fme.macroValues
         self.fooValue = fme.macroValues["foo"]
 
     def input(self, feature):
