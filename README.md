@@ -6,4 +6,6 @@ First check out this article to get FME python running in PyCharm https://commun
 
 For examples how to use chewck out the class TestFeatureProcessor
 
+Python FME API documentation https://docs.safe.com/fme/html/fmepython/index.html
+
 
